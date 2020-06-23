@@ -210,6 +210,11 @@ p {
     height: 100%;
   }
 
+  #mainform {
+    color: white;
+    font-size: 15px;
+  }
+
 /* ========= About Us ============= */
 .choose-us-wraper {
 
