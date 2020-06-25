@@ -17,7 +17,7 @@ $(document).ready(function(){
             });
             
             $('.navbar-default').css({
-                'background-color': 'rgba(59, 59 , 59, 0)'
+                'background-color': 'rgba(0, 0, 0, 1)'
                 
             });
             
@@ -30,7 +30,7 @@ $(document).ready(function(){
             });
             
             $('.navbar-default').css({
-                'background-color': 'rgba(59, 59 , 59, 0.7)',
+                'background-color': 'rgba(0, 0, 0, 1)',
                 'border-color': '#444'
                 
             });

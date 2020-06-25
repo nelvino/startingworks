@@ -51,8 +51,10 @@ p {
 /* =========== Navigation ============ */
 
 .navbar-default {
-    background-color: transparent;
-    border-color: #444;
+    /* background-color: transparent; */
+    background-color: black;
+    /* border-color: #444; */
+    border-color: white; 
     z-index: 110;
     transition: all 1s;
     -moz-transition: all 1s;
